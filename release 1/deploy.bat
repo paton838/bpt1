@@ -1,0 +1,1 @@
+AutomateC.exe /importrelease TestGit.bprelease /overwrite /user admin admin123 /dbconname 6.5
