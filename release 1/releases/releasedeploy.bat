@@ -1,0 +1,1 @@
+"C:\Program Files\Blue Prism Limited\Blue Prism Automate\AutomateC.exe" /importrelease TestGit.bprelease /overwrite /user admin admin /dbconname 6.5
