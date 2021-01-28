@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <bpr:release xmlns:bpr="http://www.blueprism.co.uk/product/release">
-    <bpr:name>Registration Process</bpr:name>
+    <bpr:name>Registration Process.bprelease</bpr:name>
     <bpr:release-notes />
-    <bpr:created>2021-01-28 10:43:11Z</bpr:created>
+    <bpr:created>2021-01-28 10:48:29Z</bpr:created>
     <bpr:package-id>-1</bpr:package-id>
     <bpr:package-name>&lt;Adhoc Package&gt;</bpr:package-name>
     <bpr:user-created-by>admin</bpr:user-created-by>
