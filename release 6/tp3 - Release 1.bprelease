@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bpr:release xmlns:bpr="http://www.blueprism.co.uk/product/release">
+    <bpr:name>tp3 - Release 1</bpr:name>
+    <bpr:release-notes />
+    <bpr:created>2022-01-12 21:48:01Z</bpr:created>
+    <bpr:package-id>3</bpr:package-id>
+    <bpr:package-name>tp3</bpr:package-name>
+    <bpr:user-created-by>admin</bpr:user-created-by>
+    <bpr:contents count="2">
+        <process id="ed4b9863-72c6-4eef-be0a-041c1053d144" name="Test APAC" published="true" xmlns="http://www.blueprism.co.uk/product/process"><process name="Test APAC" version="1.0" bpversion="6.9.0.26970" narrative="Test for MTE APAC" byrefcollection="true"><view><camerax>0</camerax><cameray>0</cameray><zoom version="2">1.25</zoom></view><preconditions /><endpoint narrative="" /><stage stageid="32bead25-2bae-4025-b023-6aef72cb4b95" name="Start" type="Start"><display x="15" y="-105" /></stage><stage stageid="1c52c494-eb99-4f9f-af71-d40c937d1523" name="End" type="End"><display x="15" y="90" /></stage><stage stageid="f1e62f77-51e1-4230-b044-7711e9248bca" name="Stage1" type="ProcessInfo"><display x="-195" y="-105" w="150" h="90" /></stage></process></process>
+        <process-group id="82fb9de6-1f22-4d84-8908-9c31e5b982f7" name="APAC" isDefaultGroup="False" xmlns="http://www.blueprism.co.uk/product/process-group">
+            <members>
+                <process id="ed4b9863-72c6-4eef-be0a-041c1053d144" />
+            </members>
+        </process-group>
+    </bpr:contents>
+</bpr:release>
